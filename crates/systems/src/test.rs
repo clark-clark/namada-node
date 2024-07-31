@@ -9,6 +9,7 @@ lazy_static! {
         HashSet::from_iter([
             "namada_governance",
             "namada_parameters",
+            "namada_proof_of_stake",
             "namada_shielded_token",
             "namada_token",
             "namada_trans_token",
